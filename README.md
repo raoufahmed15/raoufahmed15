@@ -1,167 +1,98 @@
-# 👨‍💻 Raouf Ahmed
+# 👨‍💻 Raouf Ahmed Raouf
 
-AI Engineer | Machine Learning | Deep Learning | Computer Vision
+Junior AI Engineer | Machine Learning & Deep Learning
 
-🚀 Passionate about building intelligent AI solutions that solve real-world problems using Machine Learning, Deep Learning, and Computer Vision.
-
-💡 Interested in developing AI-powered applications, intelligent automation, and modern web technologies. I also enjoy creating responsive front-end interfaces and deploying scalable AI systems.
+🚀 Building computer-vision pipelines and AutoML platforms that turn raw data into working products.
+💡 2 years of hands-on experience — from model training to mobile deployment.
+🎨 Also comfortable shipping cross-platform apps end to end.
 
 ---
 
 ## 📌 About Me
-
-- 🎓 Final-year Artificial Intelligence Student
-- 🤖 AI Engineer specializing in Machine Learning & Deep Learning
-- 👁️ Interested in Computer Vision, NLP, and Intelligent Systems
-- 🧠 Experienced in CNNs, RNNs, Transformers, and Transfer Learning
-- 📊 Skilled in Data Analysis, Model Training, Hyperparameter Tuning, and Model Evaluation
-- 📱 Experience building AI applications with Flutter
-- 🌱 Always learning new AI technologies and solving real-world problems
+- Junior AI Engineer with 2 years building computer-vision pipelines and AutoML platforms
+- Cut inspection time by 40% and processed 10 GB+ datasets at zero cloud cost
+- Experienced designing end-to-end solutions from model development to mobile deployment
+- Studying Artificial Intelligence at Delta University for Science and Technology (2022 – 2026)
+- Always looking to apply deep-learning and API skills to data-centric products
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Programming Languages
-
+### 🔹 Programming & ML/DL
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=php" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PyCaret-3776AB?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="30" />
+</div>
+
+### 🔹 Computer Vision
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Mask%20R--CNN-EE4C2C?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-4B8BBE?style=for-the-badge" height="30" />
+</div>
+
+### 🔹 Mobile, Web & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Kaggle%20API-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white" height="30" />
 </div>
 
 ---
 
-### 🔹 AI & Machine Learning
+## 🚀 Featured Projects
 
+### 🔹 MODEL GEN X — End-to-End AutoML Platform
+*Graduation Project, 2025*
+- 💬 Chat-based platform: users provide a dataset + task description, and the system generates and executes training code with no coding required
+- ⚡ Automated 500+ model runs on Kaggle GPUs (P100/T4), handling 10 GB+ datasets at zero cloud compute cost
+- 📊 Delivers model weights, accuracy reports (F1, Loss), and a live inference playground on completion
+- 🛠️ Technologies: Gemini API, FastAPI, Streamlit, Kaggle API, PyTorch
+
+---
+
+### 🔹 Computer Vision Engineer — Personal Project
+*01/2024 – Present*
+- 🖼️ Built a Mask R-CNN pipeline for real-time crack segmentation, reducing field inspection time by 40% vs. manual methods
+- 🤖 Deployed a RAG chatbot that cut defect-diagnosis time from 30 min to under 5 min per case — 83% faster
+- 📲 Shipped a Flutter app (iOS & Android) with a Firebase backend, reaching 200+ active users within 3 months
+- ⚡ Optimized model inference to under 150 ms on Snapdragon 888 via quantization and batching
+
+---
+
+### 🔹 Embedded Vision Engineer — Personal Project
+*01/2023 – 12/2023*
+- 👁️ Built a real-time drowsiness detection system achieving ~95% eye-state classification accuracy using OpenCV
+- 🔌 Integrated an Arduino Nano via Bluetooth HC-05 to trigger a safety pipeline: audio alarm, speed reduction, emergency alert
+- 🔧 Designed and assembled the full hardware stack: DC motors, ultrasonic sensors, L298N driver, 3D-printed chassis
+
+---
+
+## 🌐 Languages
+Arabic (Native) · English (Intermediate)
+
+---
+
+## 📬 Connect with Me
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <a href="mailto:rahmd1287@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raouf-ahmed-6b3050247">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/raoufahmed15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
----
-
-### 🔹 Frameworks & Tools
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter" height="45"/>
-<img src="https://skillicons.dev/icons?i=flask" height="45"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🚗 Driver Monitoring System
-
-AI-based Driver Monitoring System using Deep Learning to detect:
-
-- 😃 Active Driver
-- 😴 Drowsiness Detection
-- 😪 Sleep Detection
-- 🚨 Alarm System
-- 👁️ Eye Aspect Ratio (EAR)
-- 📷 Real-time Face & Eye Detection
-
-**Technologies**
-
-- Python
-- TensorFlow
-- OpenCV
-- MediaPipe
-
----
-
-## 🔍 Crack Vision
-
-AI-powered mobile application for crack detection.
-
-- Detectron2
-- TensorFlow Lite
-- Flutter
-- Computer Vision
-- DACL10K Dataset
-
----
-
-## 👶 Mafqood
-
-Missing Child Finder powered by AI.
-
-- Face Recognition
-- CNN Models
-- Responsive Web Application
-- Parent & Volunteer Platform
-
----
-
-## 🥗 Nutrition Analysis using Machine Learning
-
-Machine Learning model for child malnutrition classification.
-
-- KNN
-- Data Analysis
-- Classification
-- Feature Engineering
-
----
-
-# 🏆 Certifications
-
-- NTI – Machine Learning
-- NTI – Artificial Intelligence
-- Huawei Egyptian Talents Academy – AI
-- Practical Machine Learning – MaharaTech
-- Python Programming – MaharaTech
-- IBM – Introduction to Artificial Intelligence
-- Coursera – SQL
-- Coursera – MySQL Database
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 📫 Connect with Me
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-⭐ *"Building AI that makes people's lives smarter, safer, and better."*
